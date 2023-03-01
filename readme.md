@@ -1,1 +1,1 @@
-# This repo is the collection of all the trac Infographic image
+# This repo is the collection of all the trac Infographic images
